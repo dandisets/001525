@@ -25,7 +25,7 @@ assetsSummary:
   variableMeasured: []
 citation: Silkuniene, Giedre; Semenov, Iurii; Pakhomov, Andrei (2026) Characterization
   of Plasma Membrane Recovery in Cells After 1-µs Electroporation Using Strobe Fluorescence
-  Microscopy (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001525/draft
+  Microscopy (Version 0.261006.1856) [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.001525/0.261006.1856
 contributor:
 - affiliation: []
   email: giedre.silkuniene@gmail.com
@@ -53,18 +53,32 @@ contributor:
   name: Pakhomov, Andrei
   schemaKey: Person
 dateCreated: '2025-07-02T14:10:11.180813+00:00'
+datePublished: '2026-10-06T18:56:13.113167+00:00'
 description: This experiment aimed to visualize and characterize plasma membrane recovery
   in CHO cells following electroporation induced by a 1-µs electric pulse. Strobe
   fluorescence microscopy was employed to capture membrane recovery dynamics.
+doi: 10.48324/dandi.001525/0.261006.1856
 ethicsApproval: []
-id: DANDI:001525/draft
+id: DANDI:001525/0.261006.1856
 identifier: DANDI:001525
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001525/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001525/0.261006.1856/assets.yaml
 name: Characterization of Plasma Membrane Recovery in Cells After 1-µs Electroporation
   Using Strobe Fluorescence Microscopy
+publishedBy:
+  endDate: '2026-10-06T18:56:13.113167+00:00'
+  id: urn:uuid:1e84ac7e-fcb8-41fb-b962-25585d611a45
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2026-10-06T18:56:13.113167+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:7888627a-3995-4b01-a993-515b0389d42c
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - identifier: 10.1016/j.bioelechem.2026.109283
   name: Sub-microsecond optical measurements of cell membrane charging and lesioning
@@ -75,8 +89,8 @@ relatedResource:
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.10
-url: https://dandiarchive.org/dandiset/001525/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001525/0.261006.1856
+version: 0.261006.1856
 wasGeneratedBy:
 - identifier: 5R21EY034803
   name: Next Gen Temporal Interference Stimulation Non-Invasive Neuromodulation
